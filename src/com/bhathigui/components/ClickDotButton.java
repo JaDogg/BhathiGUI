@@ -91,7 +91,7 @@ public class ClickDotButton extends javax.swing.JButton {
 
     private void whiteLabel(){ 
         setBorder(BorderFactory.createEmptyBorder(1,1,1,1));
-        setIcon(new ImageIcon(getClass().getResource("/com/bhathigui/res/Shape18.png")));
+        setIcon(new ImageIcon(getClass().getResource("/com/bhathigui/res/back.png")));
         setForeground(new java.awt.Color(255, 255, 255));
         this.setCursor(new Cursor(Cursor.HAND_CURSOR));
         this.addMouseListener(mouseListener);
