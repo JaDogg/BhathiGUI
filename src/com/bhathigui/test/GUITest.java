@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bhathigui.text;
+package com.bhathigui.test;
 
 import com.bhathigui.components.EasyTree;
 
